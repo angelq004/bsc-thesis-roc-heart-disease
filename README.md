@@ -22,7 +22,7 @@ pip install pandas numpy scikit-learn scipy matplotlib joblib jupyter
 
 * `heart.csv`: Original dataset used for the study, extracted from the **[Heart Disease Prediction using Machine Learning](https://www.kaggle.com/code/tushardobal/heart-disease-prediction-using-machine-learning)** dataset.
 * `heart_disease_classifier.ipynb`: Main Jupyter Notebook that contains the data pipeline, training, evaluation of the models, and visual outputs.
-* `modelo_arbol.pkl`: Trained and exported Decision Tree model, ready to be loaded into production systems.
+* `decision_tree_model.pkl`: Trained and exported Decision Tree model, ready to be loaded into production systems.
 
 ## 🚀 Execution Instructions
 
